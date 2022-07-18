@@ -1,0 +1,1 @@
+En el siugiente [link](https://nbviewer.org/github/Alberto0410/Descenso-del-Gradiente/blob/main/Notebook%20Descenso%20del%20Gradiente.ipynb) se pueden ver las gráficas interactivas del descenso del gradiente
